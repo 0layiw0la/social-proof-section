@@ -7,7 +7,7 @@ body{
 font-size:15px;
 color:hsl(300, 43%, 22%);
 font-weight:400;
-font-family:League Spartan;
+font-family: 'League Spartan', sans-serif;
 }
 h1{
 font-weight:900;	
