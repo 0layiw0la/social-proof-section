@@ -3,3 +3,10 @@
 	padding:  0px;
 	box-sizing: border-box;
 }
+body{
+font-size:15px;
+color:hsl(300, 43%, 22%);	
+}
+section{
+color:hsl(303, 10%, 53%);	
+}
