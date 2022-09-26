@@ -9,6 +9,9 @@ color:hsl(300, 43%, 22%);
 font-weight:400;
 font-family:League Spartan;
 }
+h1{
+font-weight:900;	
+}
 section{
 color:hsl(303, 10%, 53%);
 font-weight:700;
