@@ -16,3 +16,13 @@ section{
 color:hsl(303, 10%, 53%);
 font-weight:700;
 }
+.rating-boxes{
+margin-top:20px;
+margin-bottom:20px;	
+line-height:1.5;	
+width:70%;
+background-color: hsl(333, 80%, 67%);	
+}
+i{
+color:gold;	
+}
