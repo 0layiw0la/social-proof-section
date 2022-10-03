@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $(".1").fadeIn();
-  $(".2").fadeIn();
-  $(".3").fadeIn();
+  $(".1").hover(function(){
+    fadeIn();
+  });
 });
