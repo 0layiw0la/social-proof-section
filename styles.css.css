@@ -26,3 +26,7 @@ padding: 0px 20px 0px 20px;
 i{
 color:gold;	
 }
+.flex{
+display:flex;
+justify-content:space-between;
+}	
