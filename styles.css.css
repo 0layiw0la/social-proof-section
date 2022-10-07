@@ -37,7 +37,6 @@ width : 80vw
 }
 .flex-obj-1{
 padding-right:15px;
-height:5%;
 }
 .thick{
 font-weight:700;	
@@ -47,6 +46,6 @@ color:hsl(333, 80%, 67%);
 }
 .icon{
 border-radius:50%;
-height:100%;
+height:30px;
 width:auto
 }
