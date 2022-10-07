@@ -29,10 +29,11 @@ color:gold;
 .flex{
 display:flex;
 justify-content:flex-start;
+	margin-bottom:20px;
 }
 .purple{
-background-color:	
+background-color:hsl(300, 43%, 22%);	
 }
 .flex-obj-1{
-margin-right:15px;	
+padding-right:15px;	
 }
