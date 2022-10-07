@@ -36,5 +36,17 @@ background-color:hsl(300, 43%, 22%);
 width : 80vw	
 }
 .flex-obj-1{
-padding-right:15px;	
+padding-right:15px;
+height:10%;
+}
+.thick{
+font-weight:700;	
+}
+.pink-text{
+color:hsl(333, 80%, 67%);	
+}
+.icon{
+border-radius:50%;
+height:100%;
+width:auto
 }
