@@ -21,7 +21,7 @@ margin-top:20px;
 margin-bottom:20px;	
 line-height:1.5;	
 background-color:hsl(300, 24%, 96%);
-padding: 0px 20px 0px 20px;
+width:80vw
 }
 i{
 color:gold;	
@@ -33,6 +33,7 @@ justify-content:flex-start;
 }
 .purple{
 background-color:hsl(300, 43%, 22%);	
+width : 80vw	
 }
 .flex-obj-1{
 padding-right:15px;	
