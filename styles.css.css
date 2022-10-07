@@ -9,6 +9,9 @@ color:hsl(300, 43%, 22%);
 font-weight:400;
 font-family: 'League Spartan', sans-serif;
 }
+header{
+margin-top:30px;	
+}
 h1{
 font-weight:1000;	
 }
