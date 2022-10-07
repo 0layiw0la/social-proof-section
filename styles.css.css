@@ -28,5 +28,11 @@ color:gold;
 }
 .flex{
 display:flex;
-justify-content:space-between;
-}	
+justify-content:flex-start;
+}
+.purple{
+background-color:	
+}
+.flex-obj-1{
+margin-right:15px;	
+}
