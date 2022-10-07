@@ -29,14 +29,15 @@ color:gold;
 .flex{
 display:flex;
 justify-content:flex-start;
-	margin-bottom:20px;
+margin:20px;
 }
 .purple{
 background-color:hsl(300, 43%, 22%);	
 width : 80vw	
 }
 .flex-obj-1{
-padding-right:15px;
+padding0px 20px 0px 20px;
+	border:1px solid red;
 }
 .thick{
 font-weight:700;	
@@ -46,6 +47,6 @@ color:hsl(333, 80%, 67%);
 }
 .icon{
 border-radius:50%;
-height:50px;
+height:45px;
 width:auto
 }
