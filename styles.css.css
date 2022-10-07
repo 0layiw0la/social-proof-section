@@ -17,11 +17,11 @@ color:hsl(303, 10%, 53%);
 font-weight:700;
 }
 .rating-boxes{
-margin-top:20px;
-margin-bottom:20px;	
+margin-top:20px;	
 line-height:1.5;	
 background-color:hsl(300, 24%, 96%);
-width:80vw
+width:80vw;
+border-radius:10px
 }
 i{
 color:gold;	
@@ -34,7 +34,9 @@ margin:0px 20px 20px 20px;
 .purple{
 background-color:hsl(300, 43%, 22%);	
 width : 80vw;
-	margin-bottom:10px;
+margin-bottom:10px;
+margin-top:10px;
+border-radius:15px
 }
 .flex-0bj-1{
 padding: 0px 20px 0px 20px;
